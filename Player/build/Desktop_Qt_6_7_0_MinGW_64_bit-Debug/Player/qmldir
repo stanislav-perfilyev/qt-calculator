@@ -1,5 +1,0 @@
-module Player
-typeinfo appPlayer.qmltypes
-prefer :/Player/
-Main 1.0 Main.qml
-
